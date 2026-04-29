@@ -85,6 +85,4 @@ This skill treats you as the author. It asks questions to draw out your knowledg
 - Python 3.6+ (standard library only — no pip install required)
 - Internet connection (for literature search APIs)
 
-## License
 
-MIT
